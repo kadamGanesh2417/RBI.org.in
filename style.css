@@ -18,7 +18,7 @@ body {
 
 /* Login container */
 .login-container {
-    background-image:url('Hacke_BG.gif');
+    background-color: green;
     background-size:cover;
     padding: 30px;
     border-radius: 8px;
@@ -30,7 +30,7 @@ body {
 
 h2 {
     margin-bottom: 20px;
-    color: #333;
+    color: rgba(80, 210, 67);
 }
 
 /* Input fields and labels */
